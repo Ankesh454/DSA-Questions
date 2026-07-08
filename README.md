@@ -29,19 +29,4 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 - Practice DSA consistently.
 - Prepare for coding interviews.
 
-# Folder Structure
-
-```
-DSA-Questions/
-│── Arrays/
-│── Strings/
-│── LinkedList/
-│── Stack/
-│── Queue/
-│── Trees/
-│── Graphs/
-│── DP/
-└── README.md
-```
-
 If you find this repository useful, feel free to star it.
