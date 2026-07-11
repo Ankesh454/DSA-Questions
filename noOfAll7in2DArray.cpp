@@ -16,8 +16,9 @@ void noOfAll7(int arr[][3],int row, int col){
 
 int main() {
     int arr[2][3]={{4,7,8},
-                  {8,8,7}};
+                    {8,8,7}};
 
+    
     noOfAll7(arr,2,3);
 
     return 0;
