@@ -22,7 +22,6 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 
 # Platform
 - LeetCode
-- GeeksforGeeks
 
 # Goal
 - Improve problem-solving skills.
