@@ -13,6 +13,6 @@ int findSingle(int nums[],int n){
 int main() {
     int arr[5]={2,4,5,2,4};
     
-    cout<<findSingle(arr,5);
+    cout<<findSingle(arr,5)<<endl;
     return 0;
 }
