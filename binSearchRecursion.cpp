@@ -16,7 +16,6 @@ int binSearch(int arr[],int start,int end,int key){
     }else{
         return binSearch(arr,mid+1,end,key);
     }
-
 }
 
 int main() {
