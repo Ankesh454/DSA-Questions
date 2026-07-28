@@ -9,12 +9,10 @@ bool isMonotonic(int arr[], int n){
         if (arr[i] < arr[i + 1]){
             increasing = true;
         }
-
         if (arr[i] > arr[i + 1]){
             decreasing = true;
         }
     }
-
     if (increasing == true && decreasing == true){
         return false;
     }
