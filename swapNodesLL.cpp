@@ -102,7 +102,7 @@ int main() {
 
     int k=2;
 
-    Node* head =swapNode(ll.head,k);
+    Node* head = swapNode(ll.head,k);
     printList(ll.head);
     return 0;
 }
