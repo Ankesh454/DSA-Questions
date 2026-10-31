@@ -35,6 +35,7 @@ vector<int> searchRange(vector<int>& nums, int target) {
             high = mid-1;
         }
     }
+    
     return {firstIdx,secondIdx};
 }
 
